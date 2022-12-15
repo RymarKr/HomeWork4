@@ -2,10 +2,9 @@
 //1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 //6, 1, 33 -> [6, 1, 33]
 
+//Решение 1:
 // Console.Write("Введите ряд чисел, разделенных запятой : ");
 // string seriesOfNumbers = Console.ReadLine();
-
-//Решение 1:
 // string[] numbers = new string[]{seriesOfNumbers};
 // PrintArray(numbers);
 // void PrintArray(string[] array)
